@@ -1,0 +1,13 @@
+This is a housing report that is focused on Nigeria
+
+The dataset was gotten from data.gov which can be found in the dataset folder
+
+The Visualization was done with the understanding of Real Estate
+Here in Nigeria when looking for an apartment, you need to consider how many bathrooms, bedrooms, parkingspace, location and then the price of the apartment
+
+With this understanding, i deccied to make sliders for the number of bedrooms, bathrooms and packing space so that the client can choose what suits them
+then i used a slicer for the types of apartments and edited them so fine that the clent can choose just the type of house he is looking for.
+
+Then comes the locations of the houses, these are placed by states and cities.
+The client can see how man of his choice of houses are in each state, the client can then click on their prefeared state
+and see the number of houses are there in each city and also the average price of the house in that city.
